@@ -1,6 +1,13 @@
 StockKeep
 
 StockKeep is a comprehensive web and mobile application designed to revolutionize the way you manage inventory. Its primary objective is to automate the entire inventory process, making stock management straightforward, efficient, and error-free. By leveraging advanced technology, StockKeep helps businesses track inventory levels with precision, streamline restocking processes, and prevent shortages that can disrupt operations. With real-time monitoring capabilities, StockKeep ensures that your inventory is always up-to-date, enabling smooth and uninterrupted business operations.
+
+
+
+
+
+
+
 Table of Contents:
 
   Features
@@ -12,6 +19,12 @@ Table of Contents:
   Usage
 
   Contact
+
+
+
+
+
+
 
 Features:
 
@@ -33,10 +46,22 @@ Features:
   
   Audit Trail: Maintain a detailed log of all inventory transactions for accountability and auditing purposes.
 
+
+
+
+
+
+
+
 Technologies Used:
 
   Backend: Python, Django, Django REST Framework
   Frontend: React, Tailwind CSS, Vite
+
+
+
+
+
 
 Installation:
 Backend Setup
